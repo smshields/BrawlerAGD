@@ -825,9 +825,9 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'Samuel Shields - Team Lead
+  m_text: 'Samuel Shields - Team Lead/Programming
 
-    Jack Chang - Frontend Coding
+    Jack Chang - Programming/Implementation
 
     Juwon(Julia)
     Cheon - Design Lead
