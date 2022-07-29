@@ -432,9 +432,9 @@ RectTransform:
   m_Father: {fileID: 1457308052}
   m_RootOrder: -1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 0}
-  m_AnchorMax: {x: 0, y: 0}
-  m_AnchoredPosition: {x: 0, y: 0}
+  m_AnchorMin: {x: 0, y: 1}
+  m_AnchorMax: {x: 0, y: 1}
+  m_AnchoredPosition: {x: 670.8, y: -526.0875}
   m_SizeDelta: {x: 1341.6, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &71575077
@@ -496,9 +496,9 @@ RectTransform:
   m_Father: {fileID: 1225771168}
   m_RootOrder: -1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 0}
-  m_AnchorMax: {x: 0, y: 0}
-  m_AnchoredPosition: {x: 0, y: 0}
+  m_AnchorMin: {x: 0, y: 1}
+  m_AnchorMax: {x: 0, y: 1}
+  m_AnchoredPosition: {x: 834.9679, y: -50}
   m_SizeDelta: {x: 1010.7073, y: 50}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &71749893
@@ -521,7 +521,8 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'Determines the total games being tested per generation. Min: 10 Max: 300
+  m_text: ' Determines the total games being tested per generation. Min: 10 Max:
+    300 (Recommended Size: 30 - 100)
 
 '
   m_isRightToLeft: 0
@@ -801,9 +802,9 @@ RectTransform:
   m_Father: {fileID: 507440118}
   m_RootOrder: -1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 0}
-  m_AnchorMax: {x: 0, y: 0}
-  m_AnchoredPosition: {x: 0, y: 0}
+  m_AnchorMin: {x: 0, y: 1}
+  m_AnchorMax: {x: 0, y: 1}
+  m_AnchoredPosition: {x: 660, y: -576.0529}
   m_SizeDelta: {x: 1320, y: 2}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &78076150
@@ -877,9 +878,9 @@ RectTransform:
   m_Father: {fileID: 282851104}
   m_RootOrder: -1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 0}
-  m_AnchorMax: {x: 0, y: 0}
-  m_AnchoredPosition: {x: 0, y: 0}
+  m_AnchorMin: {x: 0, y: 1}
+  m_AnchorMax: {x: 0, y: 1}
+  m_AnchoredPosition: {x: 834.9679, y: -50}
   m_SizeDelta: {x: 1010.7073, y: 50}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &132378926
@@ -903,7 +904,9 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   m_text: 'Max Game length -  Sets the longest time a round can last in seconds Min:
-    10 Max:  300'
+    10 Max:  300 (Recommended: 60 - 180)
+
+'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -1223,9 +1226,9 @@ RectTransform:
   m_Father: {fileID: 1225771168}
   m_RootOrder: -1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 0}
-  m_AnchorMax: {x: 0, y: 0}
-  m_AnchoredPosition: {x: 0, y: 0}
+  m_AnchorMin: {x: 0, y: 1}
+  m_AnchorMax: {x: 0, y: 1}
+  m_AnchoredPosition: {x: 164.16795, y: -50}
   m_SizeDelta: {x: 328.3359, y: 50}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &190216619
@@ -1248,7 +1251,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: TotalPopulation
+  m_text: TOTAL POPULATION
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -1682,9 +1685,9 @@ RectTransform:
   m_Father: {fileID: 1457308052}
   m_RootOrder: -1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 0}
-  m_AnchorMax: {x: 0, y: 0}
-  m_AnchoredPosition: {x: 0, y: 0}
+  m_AnchorMin: {x: 0, y: 1}
+  m_AnchorMax: {x: 0, y: 1}
+  m_AnchoredPosition: {x: 670.8, y: -621.305}
   m_SizeDelta: {x: 1341.6, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &282851105
@@ -1898,7 +1901,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -8.499381, y: -0.0004970789}
+  m_AnchoredPosition: {x: -8.499381, y: 0.000011156052}
   m_SizeDelta: {x: 100, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &305154936
@@ -2010,9 +2013,9 @@ RectTransform:
   m_Father: {fileID: 1071887910}
   m_RootOrder: -1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 0}
-  m_AnchorMax: {x: 0, y: 0}
-  m_AnchoredPosition: {x: 0, y: 0}
+  m_AnchorMin: {x: 0, y: 1}
+  m_AnchorMax: {x: 0, y: 1}
+  m_AnchoredPosition: {x: 834.9679, y: -50}
   m_SizeDelta: {x: 1010.7073, y: 50}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &325291911
@@ -2035,7 +2038,8 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'Sets the average length of one round in seconds. Min: 10 Max: 300
+  m_text: 'Sets the average length of one round in seconds. Min: 10 Max: 300 (Recommended
+    Length: 30 seconds - 90 seconds)
 
 '
   m_isRightToLeft: 0
@@ -2147,9 +2151,9 @@ RectTransform:
   m_Father: {fileID: 507440118}
   m_RootOrder: -1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 0}
-  m_AnchorMax: {x: 0, y: 0}
-  m_AnchoredPosition: {x: 0, y: 0}
+  m_AnchorMin: {x: 0, y: 1}
+  m_AnchorMax: {x: 0, y: 1}
+  m_AnchoredPosition: {x: 660, y: -96.84215}
   m_SizeDelta: {x: 1320, y: 2}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &354871696
@@ -5728,9 +5732,9 @@ RectTransform:
   m_Father: {fileID: 1151520668}
   m_RootOrder: -1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 0}
-  m_AnchorMax: {x: 0, y: 0}
-  m_AnchoredPosition: {x: 0, y: 0}
+  m_AnchorMin: {x: 0, y: 1}
+  m_AnchorMax: {x: 0, y: 1}
+  m_AnchoredPosition: {x: 164.16795, y: -50}
   m_SizeDelta: {x: 328.3359, y: 50}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1000494151
@@ -6244,9 +6248,9 @@ RectTransform:
   m_Father: {fileID: 1457308052}
   m_RootOrder: -1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 0}
-  m_AnchorMax: {x: 0, y: 0}
-  m_AnchoredPosition: {x: 0, y: 0}
+  m_AnchorMin: {x: 0, y: 1}
+  m_AnchorMax: {x: 0, y: 1}
+  m_AnchoredPosition: {x: 670.8, y: -240.435}
   m_SizeDelta: {x: 1341.6, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1071887911
@@ -6308,9 +6312,9 @@ RectTransform:
   m_Father: {fileID: 1344621297}
   m_RootOrder: -1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 0}
-  m_AnchorMax: {x: 0, y: 0}
-  m_AnchoredPosition: {x: 0, y: 0}
+  m_AnchorMin: {x: 0, y: 1}
+  m_AnchorMax: {x: 0, y: 1}
+  m_AnchoredPosition: {x: 834.9679, y: -50}
   m_SizeDelta: {x: 1010.7073, y: 50}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1076156010
@@ -6333,7 +6337,8 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "Sets the total number of generations to evolve Min: 10 Max: infinite\r"
+  m_text: 'Generations -  Sets the total number of generations to evolve Min: 10
+    Max: infinite (Recommended: 100 - infinite)'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -6612,9 +6617,9 @@ RectTransform:
   m_Father: {fileID: 1457308052}
   m_RootOrder: -1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 0}
-  m_AnchorMax: {x: 0, y: 0}
-  m_AnchoredPosition: {x: 0, y: 0}
+  m_AnchorMin: {x: 0, y: 1}
+  m_AnchorMax: {x: 0, y: 1}
+  m_AnchoredPosition: {x: 670.8, y: -335.6525}
   m_SizeDelta: {x: 1341.6, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1106202166
@@ -6829,8 +6834,8 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 1907962014}
   m_HandleRect: {fileID: 1907962013}
   m_Direction: 2
-  m_Value: 1
-  m_Size: 0.9999922
+  m_Value: 0
+  m_Size: 1
   m_NumberOfSteps: 0
   m_OnValueChanged:
     m_PersistentCalls:
@@ -7117,9 +7122,9 @@ RectTransform:
   m_Father: {fileID: 1457308052}
   m_RootOrder: -1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 0}
-  m_AnchorMax: {x: 0, y: 0}
-  m_AnchoredPosition: {x: 0, y: 0}
+  m_AnchorMin: {x: 0, y: 1}
+  m_AnchorMax: {x: 0, y: 1}
+  m_AnchoredPosition: {x: 670.8, y: -430.87}
   m_SizeDelta: {x: 1341.6, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1151520669
@@ -7257,9 +7262,9 @@ RectTransform:
   m_Father: {fileID: 507440118}
   m_RootOrder: -1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 0}
-  m_AnchorMax: {x: 0, y: 0}
-  m_AnchoredPosition: {x: 0, y: 0}
+  m_AnchorMin: {x: 0, y: 1}
+  m_AnchorMax: {x: 0, y: 1}
+  m_AnchoredPosition: {x: 660, y: -671.8951}
   m_SizeDelta: {x: 1320, y: 2}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1163454842
@@ -7545,9 +7550,9 @@ RectTransform:
   m_Father: {fileID: 1457308052}
   m_RootOrder: -1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 0}
-  m_AnchorMax: {x: 0, y: 0}
-  m_AnchoredPosition: {x: 0, y: 0}
+  m_AnchorMin: {x: 0, y: 1}
+  m_AnchorMax: {x: 0, y: 1}
+  m_AnchoredPosition: {x: 670.8, y: -145.2175}
   m_SizeDelta: {x: 1341.6, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1225771169
@@ -8032,9 +8037,9 @@ RectTransform:
   m_Father: {fileID: 1151520668}
   m_RootOrder: -1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 0}
-  m_AnchorMax: {x: 0, y: 0}
-  m_AnchoredPosition: {x: 0, y: 0}
+  m_AnchorMin: {x: 0, y: 1}
+  m_AnchorMax: {x: 0, y: 1}
+  m_AnchoredPosition: {x: 834.9679, y: -50}
   m_SizeDelta: {x: 1010.7073, y: 50}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1273518781
@@ -8058,7 +8063,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   m_text: 'Controls how many individuals are removed from the population each generation.
-    Min: 0 Max: 1
+    Min: 0 Max: 1 (Recommended: 0.5 - 0.75)
 
 '
   m_isRightToLeft: 0
@@ -8325,9 +8330,9 @@ RectTransform:
   m_Father: {fileID: 1457308052}
   m_RootOrder: -1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 0}
-  m_AnchorMax: {x: 0, y: 0}
-  m_AnchoredPosition: {x: 0, y: 0}
+  m_AnchorMin: {x: 0, y: 1}
+  m_AnchorMax: {x: 0, y: 1}
+  m_AnchoredPosition: {x: 670.8, y: -716.52246}
   m_SizeDelta: {x: 1341.6, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1344621298
@@ -8389,9 +8394,9 @@ RectTransform:
   m_Father: {fileID: 507440118}
   m_RootOrder: -1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 0}
-  m_AnchorMax: {x: 0, y: 0}
-  m_AnchoredPosition: {x: 0, y: 0}
+  m_AnchorMin: {x: 0, y: 1}
+  m_AnchorMax: {x: 0, y: 1}
+  m_AnchoredPosition: {x: 660, y: -384.3686}
   m_SizeDelta: {x: 1320, y: 2}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1345567712
@@ -8637,9 +8642,9 @@ RectTransform:
   m_Father: {fileID: 507440118}
   m_RootOrder: -1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 0}
-  m_AnchorMax: {x: 0, y: 0}
-  m_AnchoredPosition: {x: 0, y: 0}
+  m_AnchorMin: {x: 0, y: 1}
+  m_AnchorMax: {x: 0, y: 1}
+  m_AnchoredPosition: {x: 660, y: -288.52643}
   m_SizeDelta: {x: 1320, y: 2}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1377995659
@@ -9342,9 +9347,9 @@ RectTransform:
   m_Father: {fileID: 507440118}
   m_RootOrder: -1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 0}
-  m_AnchorMax: {x: 0, y: 0}
-  m_AnchoredPosition: {x: 0, y: 0}
+  m_AnchorMin: {x: 0, y: 1}
+  m_AnchorMax: {x: 0, y: 1}
+  m_AnchoredPosition: {x: 660, y: -1}
   m_SizeDelta: {x: 1320, y: 2}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1476808129
@@ -9610,7 +9615,7 @@ MonoBehaviour:
   maxGameLength: 60
   numGenerations: 0
   estimatedSimTime: 0
-  start: 0
+  changeScene: 0
 --- !u!1 &1501763504
 GameObject:
   m_ObjectHideFlags: 0
@@ -9644,9 +9649,9 @@ RectTransform:
   m_Father: {fileID: 1629529625}
   m_RootOrder: -1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 0}
-  m_AnchorMax: {x: 0, y: 0}
-  m_AnchoredPosition: {x: 0, y: 0}
+  m_AnchorMin: {x: 0, y: 1}
+  m_AnchorMax: {x: 0, y: 1}
+  m_AnchoredPosition: {x: 164.16795, y: -50}
   m_SizeDelta: {x: 328.3359, y: 50}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1501763506
@@ -10199,9 +10204,9 @@ RectTransform:
   m_Father: {fileID: 507440118}
   m_RootOrder: -1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 0}
-  m_AnchorMax: {x: 0, y: 0}
-  m_AnchoredPosition: {x: 0, y: 0}
+  m_AnchorMin: {x: 0, y: 1}
+  m_AnchorMax: {x: 0, y: 1}
+  m_AnchoredPosition: {x: 660, y: -480.21075}
   m_SizeDelta: {x: 1320, y: 2}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1616064032
@@ -10275,9 +10280,9 @@ RectTransform:
   m_Father: {fileID: 282851104}
   m_RootOrder: -1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 0}
-  m_AnchorMax: {x: 0, y: 0}
-  m_AnchoredPosition: {x: 0, y: 0}
+  m_AnchorMin: {x: 0, y: 1}
+  m_AnchorMax: {x: 0, y: 1}
+  m_AnchoredPosition: {x: 164.16795, y: -50}
   m_SizeDelta: {x: 328.3359, y: 50}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1628626992
@@ -10411,9 +10416,9 @@ RectTransform:
   m_Father: {fileID: 1457308052}
   m_RootOrder: -1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 0}
-  m_AnchorMax: {x: 0, y: 0}
-  m_AnchoredPosition: {x: 0, y: 0}
+  m_AnchorMin: {x: 0, y: 1}
+  m_AnchorMax: {x: 0, y: 1}
+  m_AnchoredPosition: {x: 670.8, y: -50}
   m_SizeDelta: {x: 1341.6, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1629529626
@@ -10745,9 +10750,9 @@ RectTransform:
   m_Father: {fileID: 1106202165}
   m_RootOrder: -1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 0}
-  m_AnchorMax: {x: 0, y: 0}
-  m_AnchoredPosition: {x: 0, y: 0}
+  m_AnchorMin: {x: 0, y: 1}
+  m_AnchorMax: {x: 0, y: 1}
+  m_AnchoredPosition: {x: 834.9679, y: -50}
   m_SizeDelta: {x: 1010.7073, y: 50}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1634896916
@@ -10771,9 +10776,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   m_text: 'Determines how many times each game is evaluated for average fitness (how
-    good each game is on average). Min: 1 Max: 5
-
-'
+    good each game is on average). Min: 1 Max: 5 (Recommended Rounds: 1 - 3)'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -11430,9 +11433,9 @@ RectTransform:
   m_Father: {fileID: 1071887910}
   m_RootOrder: -1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 0}
-  m_AnchorMax: {x: 0, y: 0}
-  m_AnchoredPosition: {x: 0, y: 0}
+  m_AnchorMin: {x: 0, y: 1}
+  m_AnchorMax: {x: 0, y: 1}
+  m_AnchoredPosition: {x: 164.16795, y: -50}
   m_SizeDelta: {x: 328.3359, y: 50}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1711571945
@@ -11641,9 +11644,9 @@ RectTransform:
   m_Father: {fileID: 1106202165}
   m_RootOrder: -1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 0}
-  m_AnchorMax: {x: 0, y: 0}
-  m_AnchoredPosition: {x: 0, y: 0}
+  m_AnchorMin: {x: 0, y: 1}
+  m_AnchorMax: {x: 0, y: 1}
+  m_AnchoredPosition: {x: 164.16795, y: -50}
   m_SizeDelta: {x: 328.3359, y: 50}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1749430023
@@ -12083,9 +12086,9 @@ RectTransform:
   m_Father: {fileID: 71575076}
   m_RootOrder: -1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 0}
-  m_AnchorMax: {x: 0, y: 0}
-  m_AnchoredPosition: {x: 0, y: 0}
+  m_AnchorMin: {x: 0, y: 1}
+  m_AnchorMax: {x: 0, y: 1}
+  m_AnchoredPosition: {x: 834.9679, y: -50}
   m_SizeDelta: {x: 1010.7073, y: 50}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1792232768
@@ -12108,9 +12111,8 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'Controls the diversity among populations. A mutation rate over 0.5 will
-    result in more random mutations while a mutation rate too close to 0 shows few
-    changes populations. Min: 0  Max: 1
+  m_text: 'Controls the probability of a single trait in a character or move being
+    assigned a new value. Min: 0  Max: 1 (Recommended: 0.1 to 0.4)
 
 '
   m_isRightToLeft: 0
@@ -12394,9 +12396,9 @@ RectTransform:
   m_Father: {fileID: 1629529625}
   m_RootOrder: -1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 0}
-  m_AnchorMax: {x: 0, y: 0}
-  m_AnchoredPosition: {x: 0, y: 0}
+  m_AnchorMin: {x: 0, y: 1}
+  m_AnchorMax: {x: 0, y: 1}
+  m_AnchoredPosition: {x: 834.9679, y: -50}
   m_SizeDelta: {x: 1010.7073, y: 50}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1811881223
@@ -12419,9 +12421,9 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: ' Controls the speed of the gameplay. Increasing the timescale makes the
+  m_text: 'Controls the speed of the gameplay. Increasing the timescale makes the
     gameplay faster, while decreasing it makes the gameplay slower.  Min: 0.1 Max:
-    10
+    10 (Recommended Rate: 1 - 6)
 
 '
   m_isRightToLeft: 0
@@ -12533,9 +12535,9 @@ RectTransform:
   m_Father: {fileID: 507440118}
   m_RootOrder: -1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 0}
-  m_AnchorMax: {x: 0, y: 0}
-  m_AnchoredPosition: {x: 0, y: 0}
+  m_AnchorMin: {x: 0, y: 1}
+  m_AnchorMax: {x: 0, y: 1}
+  m_AnchoredPosition: {x: 660, y: -192.6843}
   m_SizeDelta: {x: 1320, y: 2}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1820072387
@@ -12941,9 +12943,9 @@ RectTransform:
   m_Father: {fileID: 71575076}
   m_RootOrder: -1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 0}
-  m_AnchorMax: {x: 0, y: 0}
-  m_AnchoredPosition: {x: 0, y: 0}
+  m_AnchorMin: {x: 0, y: 1}
+  m_AnchorMax: {x: 0, y: 1}
+  m_AnchoredPosition: {x: 164.16795, y: -50}
   m_SizeDelta: {x: 328.3359, y: 50}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1914813403
@@ -13467,9 +13469,9 @@ RectTransform:
   m_Father: {fileID: 1344621297}
   m_RootOrder: -1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 0}
-  m_AnchorMax: {x: 0, y: 0}
-  m_AnchoredPosition: {x: 0, y: 0}
+  m_AnchorMin: {x: 0, y: 1}
+  m_AnchorMax: {x: 0, y: 1}
+  m_AnchoredPosition: {x: 164.16795, y: -50}
   m_SizeDelta: {x: 328.3359, y: 50}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &2023830306
